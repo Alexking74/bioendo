@@ -1,0 +1,6 @@
+{
+  "name": "BioEndo Lab - Vitamina K y Sistema Endocrino",
+  "description": "Plataforma educativa interactiva sobre bioquímica y fisiología: Vitamina K, cascada de coagulación y eje endocrino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
